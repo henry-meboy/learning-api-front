@@ -1,0 +1,25 @@
+/* src/styles/global.css */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  margin: 0;
+  color: #111;
+  background: #f7f8fb;
+}
+a {
+  color: #2d8eff;
+  text-decoration: none;
+}
+button {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: white;
+  cursor: pointer;
+}
+input, textarea {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  width: 100%;
+  box-sizing: border-box;
+}
